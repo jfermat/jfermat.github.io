@@ -47,16 +47,8 @@ params:
     enable: true
   page:
     comment:
-      enable: true
-      telegram:
-        enable: true
-        siteID: "XQKYVxgU"
-        limit: 5
-        height: ""
-        color: ""
-        colorful: true
-        dislikes: false
-        outlined: false
+      enable: false
+      
 menu:
   main:
     - identifier: "Inico"
