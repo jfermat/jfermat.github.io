@@ -22,6 +22,4 @@ jobs:
         uses: chabad360/hugo-gh-pages@master
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
           hugoVersion: extended_0.80.0
-          siteDir: /github/workspace/site
