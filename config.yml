@@ -5,8 +5,6 @@ title: "Jordi Ferré"
 
 theme: "LoveIt"
 
-googleAnalytics: UA-160910352-1
-
 author:
   name: "Jordi Ferré"
 
@@ -40,6 +38,11 @@ params:
     Gitlab: jferre
     Strava: 59046961
     Email: "jordiferre@gmail.com"
+  analytics:
+    enable: true
+    google:
+      id: "G-GR0HB6SQQD"
+      anonymizeIP: false
   cookieconsent:
     enable: true
 
