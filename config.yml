@@ -59,30 +59,26 @@ params:
         outlined: false
 menu:
   main:
-    - identifier: "posts"
-      # you can add extra information before the name (HTML format is supported), such as icons
-      pre: ""
-      # you can add extra information after the name (HTML format is supported), such as icons
-      post: ""
-      name: "Blog"
-      url: "/posts/"
-      # title will be shown when you hover on this menu link
+    - identifier: "Inico"
+      name: "Inicio"
+      url: "/"
       title: ""
       weight: 1
+    - identifier: "posts"
+      name: "Blog"
+      url: "/posts/"
+      title: ""
+      weight: 2
     - identifier: "misc"
-      pre: ""
-      post: ""
       name: "Misc"
       url: "/categories/misc/"
       title: ""
-      weight: 2
+      weight: 3
     - identifier: "sobre-mi"
-      pre: ""
-      post: ""
       name: "Sobre mí"
       url: "/sobre-mi/"
       title: ""
-      weight: 3
+      weight: 4
 
 # Markup related configuration in Hugo.
 markup:
