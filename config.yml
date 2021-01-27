@@ -45,7 +45,17 @@ params:
       anonymizeIP: false
   cookieconsent:
     enable: true
-
+  page:
+    comment:
+      telegram:
+        enable: true
+        siteID: "XQKYVxgU"
+        limit: 5
+        height: ""
+        color: ""
+        colorful: true
+        dislikes: false
+        outlined: false
 menu:
   main:
     - identifier: "posts"
