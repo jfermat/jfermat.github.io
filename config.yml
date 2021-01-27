@@ -47,6 +47,7 @@ params:
     enable: true
   page:
     comment:
+      enable: true
       telegram:
         enable: true
         siteID: "XQKYVxgU"
