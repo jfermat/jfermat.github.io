@@ -69,7 +69,7 @@ menu:
       title: ""
       weight: 3
 
-# Markup related configuration in Hugo
+# Markup related configuration in Hugo.
 markup:
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
   highlight:
