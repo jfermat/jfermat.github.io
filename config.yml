@@ -1,0 +1,77 @@
+baseURL: "https://jfermat.github.io/"
+languageCode: "es"
+defaultContentLanguage: "es"
+title: "Jordi Ferré"
+
+theme: "LoveIt"
+
+author:
+  name: "Jordi Ferré"
+
+params:
+  author: "Jordi Ferré"
+  description: "Mi sitio Geek 🤓"
+  version: "0.2.X"
+  dateformat: 02-01-2006
+  images: ["/logo.png"]
+  header:
+    title:
+      logo: "https://avatars3.githubusercontent.com/u/33716069"
+      name: "Jordi Ferré"
+      typeit: true
+  footer:
+    copyright: false
+    author: true
+    license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+  home:
+    profile:
+      enable: true
+      avatarURL: https://avatars3.githubusercontent.com/u/33716069
+      title: Jordi Ferré Matamoros
+      subtitle: "Mi sitio Geek 🤓"
+      social: true
+      typeit: true
+  social:
+    github: jfermat
+    linkedin: jordiferre
+    Instagram: xordeee
+    Telegram: xordeee
+    Gitlab: jferre
+    Strava: 59046961
+    Email: "jordiferre@gmail.com"
+  cookieconsent:
+    enable: true
+
+menu:
+  main:
+    - identifier: "posts"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre: ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post: ""
+      name: "Blog"
+      url: "/posts/"
+      # title will be shown when you hover on this menu link
+      title: ""
+      weight: 1
+    - identifier: "misc"
+      pre: ""
+      post: ""
+      name: "Misc"
+      url: "/categories/misc/"
+      title: ""
+      weight: 2
+    - identifier: "sobre-mi"
+      pre: ""
+      post: ""
+      name: "Sobre mí"
+      url: "/sobre-mi/"
+      title: ""
+      weight: 3
+
+# Markup related configuration in Hugo
+markup:
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  highlight:
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses: false
