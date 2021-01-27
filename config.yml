@@ -18,7 +18,6 @@ params:
     title:
       logo: "https://avatars3.githubusercontent.com/u/33716069"
       name: "Jordi Ferré"
-      typeit: true
   footer:
     copyright: false
     author: true
@@ -78,3 +77,4 @@ markup:
 
 ignoreFiles:
   - .gitmodules
+  - .gitignore
