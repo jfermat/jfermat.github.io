@@ -47,7 +47,10 @@ params:
     enable: true
   page:
     comment:
-      enable: false
+      enable: true
+      disqus:
+        enable: true
+        shortname: "jfermat"
       
 menu:
   main:
