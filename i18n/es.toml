@@ -1,2 +1,5 @@
 [allSome]
 other = "Todos los {{ .Some }}"
+
+[poweredBySome]
+other = "Con la tecnología de {{ .Hugo }} | Tema - {{ .Theme }}"
