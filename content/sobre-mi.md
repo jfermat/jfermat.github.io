@@ -21,9 +21,9 @@ dar solución y realizar su desarrollo de una de sus aplicaciones.
 {{< /style >}}
 
 🌱 Llegué en el mundo del desarrollo con tan solo 14 años, gracias a mi hermano, 
-que trabajaba como técnico informático. Un día, me explico como se hacían las página web, 
+que trabajaba como técnico informático. Un día, me explico cómo se hacían las páginas web, 
 con ¡Front Page! 🤭, así que me convertí en todo un webmaster. Empecé a realizar una página web 
-para un clan de un grupo de amigos que jugábamos en un 🕹️ juego en línea , otra página web para el 
+para un clan de un grupo de amigos que jugábamos en un 🕹️ juego en línea, otra página web para el 
 grupo de amigos de mi pueblo. Pero había un gran problema. Cada vez que alguien querría cambiar 
 cualquier cosa de la página tenía que modificar el archivo que correspondiera y volver a subirlo. 
 Así que cuando cursaba 4º de la ESO, mi 👨‍🏫 profesor de matemáticas que sabía lo que hacía, 
@@ -36,7 +36,7 @@ Desde entonces que vivo atrapado en este mundo tan maravilloso.
 👨‍🎓 Llegó el verano, y mi madre al verme que me apasionaba tanto el mundo de la programación me apunto 
 en una academia para hacer un curso de Visual Basic. Seguí mi formación, primero haciendo un 
 Ciclo Formativo de grado medio de informática. Una vez finalizado, realice el Ciclo Formativo de 
-grado superior de Desarrollo de Aplicaciones Informáticas. A día de hoy sigo formándome en este mundo 
+grado superior de Desarrollo de Aplicaciones Informáticas. Hoy en día sigo formándome en este mundo 
 tan cambiante, o bien, haciendo cursos en la empresa que estoy, asistiendo a Meeteups o por mi cuenta 
 de manera autodidacta.
 
@@ -48,7 +48,7 @@ de manera autodidacta.
 páginas web como una asociación de mi pueblo, una discoteca, un negocio de coches de segunda mano, etc. 
 Pero eran trabajos puntuales y en el país estábamos travesando una crisis económica y no encontraba trabajo 
 de lo que me gustaba realmente. Entonces en mi familia, decidimos montar una tienda de 🍽️ comida preparada.
-Así que a parte de hacer de pinche en la cocina, programé el programa para llevar la contabilidad. 
+Así que aparte de hacer de pinche en la cocina, programé el programa para llevar la contabilidad. 
 Pero negocio no iba muy bien y un día empecé a buscar trabajo hasta que en el año 2012 empezó mi vida 
 en el mundo del Java en [Viewnext](https://www.viewnext.com). Tuve que dejar el pueblo y mudarme en Reus. Entré en el proyecto 
 [GSIT](http://ctti.gencat.cat/ca/ctti/solucions-corporatives/administracio-electronica/tramitacio-electronica/plataforma-gsit/)
@@ -62,6 +62,6 @@ trabajo actual.
 
 🚴 A parte del mundo del desarrollo me encanta coger la bicicleta y echar kilómetros, 
 salir a la montaña 🌄 y si hay nieve ¡esquiar! ⛷️ También me gusta jugar a los dardos 🎯, bolos 🎳, futbolín 
-aunque me considero de que soy muy malo. ¿Y como no? Salir de cualquier Escape Room antes del tiempo previsto. 
-Aunque a veces sientas, ¡de aquí no salimos!, o te lo estés pasando de maravilla o por el contrario, pasando miedo. 
-¿Y como no? Ir de viaje a conocer nuevos lugares.
+aunque me considero que soy muy malo. Otras actividades es la de salir de cualquier Escape Room antes del tiempo 
+previsto. Aunque a veces sientas, ¡de aquí no salimos!, o te lo estés pasando de maravilla o por el contrario, 
+pasando miedo. ¿Y cómo no? Ir de viaje a conocer nuevos lugares.
