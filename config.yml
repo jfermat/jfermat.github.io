@@ -51,6 +51,14 @@ params:
       disqus:
         enable: true
         shortname: "jfermat"
+    share:
+      enable: true
+      Twitter: true
+      Facebook: true
+      Linkedin: true
+      Whatsapp: true
+      Xing: true
+      Trello: true
       
 menu:
   main:
