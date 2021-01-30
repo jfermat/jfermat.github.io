@@ -2,15 +2,18 @@
 title: "Pequeños consejos para hacer teletrabajo"
 date: 2020-03-17T17:41:30+01:00
 draft: false
-categories: ["Misc"]
 resources:
 - name: "featured-image"
   src: "espacio-trabajo.jpg"
+categories: ["Misc"]
+lightgallery: true
 ---
 
 Ahora que muchos habéis empezado a teletrabajar por el estado de alarma y el confinamiento por causa 
 del Coronavirus quiero daros algunos pequeños consejos. Tampoco tengo una amplia experiencia ya que 
 desde principio de este año he empezado a realizarlo solo un día a la semana.
+
+<!--more-->
 
 ### Antes de empezar a trabajar
 

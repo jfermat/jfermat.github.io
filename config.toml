@@ -1,0 +1,142 @@
+baseURL = "https://jfermat.github.io/"
+languageCode = "es"
+defaultContentLanguage = "es"
+theme = "uBlogger"
+
+title = "Jordi Ferré"
+
+enableRobotsTXT = true
+enableEmoji = true
+
+[languages]
+  [languages.es]
+    weight = 1
+    languageCode = "es"
+    languageName = "Español"
+    [languages.es.menu]
+      [[languages.es.menu.main]]
+        identifier = "inicio"
+        name = "Inicio"
+        url = "/"
+        title = ""
+        weight = 1
+      [[languages.es.menu.main]]
+        identifier = "misc"
+        name = "Misc"
+        url = "/categories/misc/"
+        title = ""
+        weight = 2
+      [[languages.es.menu.main]]
+        identifier = "sobre-mi"
+        name = "Sobre mí"
+        url = "/sobre-mi/"
+        title = ""
+        weight = 3
+
+[params]
+  AuthorName = "Jordi Ferré"
+  description = "Mi sitio Geek 🤓"
+  version = "1.3.X"
+  defaultTheme = "auto"
+  dateformat = "02-01-2006"
+  images = ["/logo.png"]
+
+  [params.header]
+    [params.header.title]
+      name = "Jordi Ferré"
+      pre = '<img class="logo" src="https://avatars3.githubusercontent.com/u/33716069" alt="">'
+
+  [params.home]
+    [params.home.profile]
+      enable = true
+      avatarURL = "https://avatars3.githubusercontent.com/u/33716069"
+      title = "Jordi Ferré Matamoros"
+      subtitle = "Mi sitio Geek 🤓"
+      social = true
+      typeit = true
+    [params.home.post]
+      enable = true
+      paginate = 5
+
+  [params.section]
+    dateFormat = "02-01"
+
+  [params.list]
+      dateFormat = "02-01"
+
+  [params.social]
+    github = "jfermat"
+    linkedin = "jordiferre"
+    Instagram = "xordeee"
+    Telegram = "xordeee"
+    Gitlab = "jferre"
+    Strava = "59046961"
+    Email = "jordiferre@gmail.com"
+
+  [params.footer]
+    enable = true
+    copyright = false
+    author = true
+    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+  [params.comment]
+    enable = true
+    [params.comment.disqus]
+      enable = true
+      shortname = "jfermat"
+
+  [params.page]
+    [params.page.library]
+      [params.page.library.css]
+        someCSS = "css/custom.css"
+    [params.page.code]
+      copy = true
+    [params.page.share]
+      enable = true
+      Twitter = true
+      Facebook = true
+      Linkedin = true
+      Whatsapp = true
+      Xing = true
+      Trello = true
+
+  [params.analytics]
+    enable = true
+    [params.analytics.google]
+      id = "G-GR0HB6SQQD"
+      gtag = true
+      anonymizeIP = false
+
+  [params.cookieconsent]
+    enable = true
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6
+
+[author]
+  name = "jfermat"
+
+[sitemap]
+  filename = "sitemap.xml"
+
+[Permalinks]
+  posts = ":year/:month/:filename"

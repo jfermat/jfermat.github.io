@@ -2,6 +2,9 @@
 title: "Sobre mí"
 date: 2021-01-16T18:29:33+01:00
 draft: false
+
+lightgallery: true
+
 ---
 
 🙋🏻‍♂️¡Hola! Mi nombre es Jordi Ferré Matamoros. 

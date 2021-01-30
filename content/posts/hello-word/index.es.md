@@ -1,5 +1,5 @@
 ---
-title: "Hello World"
+title: "¡Hello, world!"
 date: 2020-03-15T14:41:30+01:00
 draft: false
 categories: ["Misc"]
@@ -9,6 +9,8 @@ categories: ["Misc"]
 no puedo dejar de publicar mi primer artículo sin que sea un hola mundo. Siempre que te inicias en aprender 
 un nuevo lenguaje de programación es muy típico pintarlo por pantalla para comprobar de que realmente funciona 
 y vamos por buen camino.
+
+<!--more-->
 
 Pero ¿cuál es su origen? En realidad, no se sabe exactamente. Puede que fuera el primer habitante del mundo, o,
  estamos viviendo en Matrix y fue un programador 😜
