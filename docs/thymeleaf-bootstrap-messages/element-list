@@ -1,0 +1,5 @@
+io.github.jfermat.thymeleaf.bootstrap.messages
+io.github.jfermat.thymeleaf.bootstrap.messages.components
+io.github.jfermat.thymeleaf.bootstrap.messages.dialect
+io.github.jfermat.thymeleaf.bootstrap.messages.initializer
+io.github.jfermat.thymeleaf.bootstrap.messages.util
