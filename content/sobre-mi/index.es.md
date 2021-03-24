@@ -17,7 +17,7 @@ y [Barcelona](https://es.wikipedia.org/wiki/Barcelona).
 👨‍💻 Actualmente estoy trabajando en el entorno de la programación Java en 
 [Altran (Part of Capgemini)](https://www.altran.com). Concretamente para el cliente de 
 [Transports Metropolitans de Barcelona](https://www.tmb.cat). Mi día a día consiste en analizar el problema, 
-dar solución y realizar su desarrollo de una de sus aplicaciones.
+dar solución y realizar su desarrollo sobre una de sus aplicaciones.
 
 {{< style "text-align:center;">}}
 ![Matrix](/images/matrix.png)
