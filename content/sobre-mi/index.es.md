@@ -63,7 +63,7 @@ trabajo actual.
 
 ![Deportes](/images/sport.png)
 
-🚴 A parte del mundo del desarrollo me encanta coger la bicicleta y echar kilómetros, 
+🚴 A parte del mundo del desarrollo me encanta montar en bicicleta y salir a echar kilómetros, 
 salir a la montaña 🌄 y si hay nieve ¡esquiar! ⛷️ También me gusta jugar a los dardos 🎯, bolos 🎳, futbolín 
 aunque me considero que soy muy malo. Otras actividades es la de salir de cualquier Escape Room antes del tiempo 
 previsto. Aunque a veces sientas, ¡de aquí no salimos!, o te lo estés pasando de maravilla o por el contrario, 
