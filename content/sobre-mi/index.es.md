@@ -1,6 +1,7 @@
 ---
 title: "Sobre mí"
 date: 2021-01-16T18:29:33+01:00
+lastmod: 2021-11-04T19:01:12+01:00
 draft: false
 
 lightgallery: true
@@ -14,10 +15,8 @@ y [Barcelona](https://es.wikipedia.org/wiki/Barcelona).
 
 ![Origenes](/images/origenes.png)
 
-👨‍💻 Actualmente estoy trabajando en el entorno de la programación Java en 
-[Capgemini Engineering](https://capgemini-engineering.com). Concretamente para el cliente de 
-[Transports Metropolitans de Barcelona](https://www.tmb.cat). Mi día a día consiste en analizar el problema, 
-dar solución y realizar su desarrollo sobre una de sus aplicaciones.
+👨‍💻 Actualmente me encuentro trabajando en el desarrollo de Java en 
+[Viewnext](https://www.viewnext.com) para el cliente de [CTTI](https://ctti.gencat.cat/).
 
 {{< style "text-align:center;">}}
 ![Matrix](/images/matrix.png)
@@ -49,7 +48,7 @@ de manera autodidacta.
 
 👨‍💼 Mi experiencia profesional en el mundo de la programación empezó en el año 2005 haciendo algunas 
 páginas web como una asociación de mi pueblo, una discoteca, un negocio de coches de segunda mano, etc. 
-Pero eran trabajos puntuales y en el país estábamos travesando una crisis económica y no encontraba trabajo 
+Pero eran trabajos puntuales y en el país estábamos atravesando una crisis económica y no encontraba trabajo 
 de lo que me gustaba realmente. Entonces en mi familia, decidimos montar una tienda de 🍽️ comida preparada.
 Así que aparte de hacer de pinche en la cocina, programé el programa para llevar la contabilidad. 
 Pero negocio no iba muy bien y un día empecé a buscar trabajo hasta que en el año 2012 empezó mi vida 
@@ -58,8 +57,9 @@ en el mundo del Java en [Viewnext](https://www.viewnext.com). Tuve que dejar el 
 de la Generalitat de Catalunya para realizar el mantenimiento y evolutivos. 
 Cada día aprendiendo más y más. Estuve casi 4 años hasta que encontré nuevos retos en Barcelona
 para seguir mi evolución. En [atSistemas](https://www.atsistemas.com) desarrollamos dos nuevas aplicaciones para
-[MC-Mutual](https://www.mc-mutual.com). Una vez terminados los proyectos, me surgió la oportunidad de mi puesto de
-trabajo actual.
+[MC-Mutual](https://www.mc-mutual.com). Cuando se finalizaron los proyectos, me surgió la oportunidad de ir a
+[Capgemini Engineering](https://capgemini-engineering.com) para desarrollar la aplicación de billetaje y contabilidad
+de [Transports Metropolitans de Barcelona](https://www.tmb.cat).
 
 ![Deportes](/images/sport.png)
 
