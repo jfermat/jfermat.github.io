@@ -58,8 +58,8 @@ de la Generalitat de Catalunya para realizar el mantenimiento y evolutivos.
 Cada día aprendiendo más y más. Estuve casi 4 años hasta que encontré nuevos retos en Barcelona
 para seguir mi evolución. En [atSistemas](https://www.atsistemas.com) desarrollamos dos nuevas aplicaciones para
 [MC-Mutual](https://www.mc-mutual.com). Cuando se finalizaron los proyectos, me surgió la oportunidad de ir a
-[Capgemini Engineering](https://capgemini-engineering.com) para desarrollar la aplicación de billetaje y contabilidad
-de [Transports Metropolitans de Barcelona](https://www.tmb.cat).
+[Capgemini Engineering](https://capgemini-engineering.com) para el desarrollo de la aplicación de integraciones de ventas, 
+billetaje y contabilidad de [Transports Metropolitans de Barcelona](https://www.tmb.cat).
 
 ![Deportes](/images/sport.png)
 
